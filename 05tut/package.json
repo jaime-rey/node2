@@ -1,0 +1,27 @@
+{
+  "name": "05tut",
+  "version": "1.0.0",
+  "description": "exercise 5",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaime-rey/nodeEx3.git"
+  },
+  "author": "jaime rey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaime-rey/nodeEx3/issues"
+  },
+  "homepage": "https://github.com/jaime-rey/nodeEx3#readme",
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
